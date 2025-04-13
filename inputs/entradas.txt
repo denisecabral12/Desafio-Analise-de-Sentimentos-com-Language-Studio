@@ -1,0 +1,149 @@
+Projeto 1 - AI 
+
+hotel
+Tipo: Location
+Deslocamento: 7
+Comprimento: 5
+Confiança: 81%
+Rótulos
+Location (81%)
+Hotel
+Tipo: Organization
+Deslocamento: 42
+Comprimento: 5
+Confiança: 62%
+Rótulos
+Organization (62%)
+London, United
+Tipo: Address
+Deslocamento: 49
+Comprimento: 14
+Confiança: 57.99999999999999%
+Rótulos
+Address (57.99999999999999%)
+United Kingdom
+Tipo: CountryRegion
+Deslocamento: 57
+Comprimento: 14
+Confiança: 100%
+Rótulos
+CountryRegion (100%)
+GPE (100%)
+Location (100%)
+5/6/2018
+Tipo: Date
+Deslocamento: 73
+Comprimento: 8
+Confiança: 80%
+Rótulos
+Date (80%)
+DateTime (80%)
+Metadados
+Timex: 2018-06-05
+Valor: 2018-06-05
+hotel
+Tipo: Location
+Deslocamento: 98
+Comprimento: 5
+Confiança: 79%
+Rótulos
+Location (79%)
+1950
+Tipo: DateRange
+Deslocamento: 127
+Comprimento: 4
+Confiança: 80%
+Rótulos
+DateRange (80%)
+DateTime (80%)
+Metadados
+Timex: 1950
+duração:
+1950
+Tipo: Number
+Deslocamento: 127
+Comprimento: 4
+Confiança: 80%
+Rótulos
+Number (80%)
+Quantity (80%)
+Numeric (80%)
+Metadados
+Nome: Integer
+Valor: 1950
+now
+Tipo: DateAndTime
+Deslocamento: 193
+Comprimento: 3
+Confiança: 100%
+Rótulos
+DateAndTime (100%)
+DateTime (100%)
+office rooms
+Tipo: Location
+Deslocamento: 276
+Comprimento: 12
+Confiança: 93%
+Rótulos
+Location (93%)
+flight
+Tipo: Event
+Deslocamento: 308
+Comprimento: 6
+Confiança: 66%
+Rótulos
+Event (66%)
+home
+Tipo: Location
+Deslocamento: 315
+Comprimento: 4
+Confiança: 85%
+Rótulos
+Location (85%)
+British Museum
+Tipo: Location
+Deslocamento: 356
+Comprimento: 14
+Confiança: 94%
+Rótulos
+Location (94%)
+
+
+
+
+Parte 2 
+
+Frases-chave extraídas
+bedroom
+Buckingham Palace
+Clean rooms
+courtyard
+enormous bathroom
+fish
+Good Hotel
+good service
+great location
+kitchen
+London
+lounge
+Michelin Star
+part
+plenty
+restaurant
+same group
+staff
+stay
+taster menu
+The Royal Hotel
+UK
+West coast
+Westminster Abbey
+
+Parte 3
+
+Resumo de extração
+(Pontuação de classificação: 78%) Very noisy and rooms are tiny
+(Pontuação de classificação: 100%) The Lombard Hotel, San Francisco, USA
+(Pontuação de classificação: 76%) Hotel is located on Lombard street which is a very busy SIX lane street directly off the Golden Gate Bridge.
+Resumo de abstração
+The reviewer experienced significant noise pollution and small room sizes during their stay at The Lombard Hotel in San Francisco, primarily due to its location on Lombard Street, a bustling six-lane thoroughfare near the Golden Gate Bridge. Despite the hotel'dedouble efforts to update rooms, the insulation was inadequate, necessitating the use of cotton balls to block out the noise for sleep. The chosen room, intended to accommodate two queen-sized beds for a standard stay, fell short in space, making it uncomfortably cramped for a family of four. However, the hotel was noted for its cleanliness and convenient location in the Marina District, which offers numerous dining options within walking distance. The overall tone suggests a mixed experience, potentially suitable for young adults seeking budget accommodations with late-night activities nearby, though the noise and space constraints were major drawbacks. The review highlights the need for better room insulation to enhance the guest experience.
